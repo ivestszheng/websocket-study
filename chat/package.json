@@ -1,0 +1,19 @@
+{
+  "name": "websocket-study",
+  "version": "1.0.0",
+  "description": "websocket 学习记录",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.zhlh6.cn:ivestszheng/websocket-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^2.7.13"
+  }
+}
